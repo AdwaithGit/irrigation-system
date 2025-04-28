@@ -1,12 +1,50 @@
-# React + Vite
+## Irrigation System
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7514a4b7-62ef-4c7a-b5d8-5f0dfb11616e/deploy-status)](https://irrigation-site.netlify.app)
+🔗 **[Live Demo Here](https://irrigation-site.netlify.app)**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    A responsive, user-friendly web application for smart irrigation management built with React.js.
 
-Currently, two official plugins are available:
+## Features :
+    Display and monitor irrigation system data
+    Responsive UI for all devices
+    Built using modern React practices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation :
+    1. Clone the repository:
+    git clone https://github.com/your-username/your-repo-name.git
 
-## Expanding the ESLint configuration
+    2. Navigate to the project directory:
+    cd your-repo-name
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    3. Install dependencies:
+    npm install
+
+## Build Instructions :
+    1. To run the app locally:
+    npm start
+
+    2. To create a production build:
+    npm run build
+    This will generate a build/ folder with optimized production-ready code.
+
+## Deployment (for Netlify) :
+    After building the project (npm run build),
+    deploy the contents of the build/ folder on Netlify.
+
+## On Netlify:
+    Drag and drop the build/ folder.
+    Or connect your GitHub repo and set the Build Command to npm run build and Publish directory to build.
+
+## Screenshots :
+### irrigationForm
+![irrigation form screenshot](./src/assets/irrigationform.jpg)
+
+### irrigation schedule
+![irrigation schedule table screenshot](./src/assets/irrigationschedule.jpg)
+
+## License
+    This project is licensed under the MIT License.
+
+## Acknowledgements
+    Built with React.js
+    Hosted on Netlify
