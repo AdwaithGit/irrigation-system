@@ -40,7 +40,7 @@
 ![irrigation form screenshot](./src/assets/irrigationform.jpg)
 
 ### irrigation schedule
-![irrigation schedule table screenshot](./src/assets/irrigationschedule.jpg)
+![irrigation schedule table screenshot](./src/assets/irrigation.jpg)
 
 ## License
     This project is licensed under the MIT License.
