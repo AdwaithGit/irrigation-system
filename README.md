@@ -1,6 +1,6 @@
 ## Irrigation System
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7514a4b7-62ef-4c7a-b5d8-5f0dfb11616e/deploy-status)](https://irrigation-site.netlify.app)
-🔗 **[Live Demo Here](https://irrigation-site.netlify.app)**
+🔗 **[Live Demo Here](https://irrigation-syst.netlify.app)**
 
     A responsive, user-friendly web application for smart irrigation management built with React.js.
 
