@@ -3,7 +3,7 @@ import React from "react";
 import Navbar from "./Components/Navbar"; // Import Navbar component
 import "./App.css"; // Optional global styles (if any)
 import IrrigationTable from "./Components/IrrigationTable";
-import IrrigationChart from "./Components/IrrigationChart";
+
 
 
 const data = [
