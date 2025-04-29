@@ -178,3 +178,21 @@
         margin-top: 30px;
     }
 }
+
+.chart-container {
+    width: 400px;
+    /* Same width as form */
+     margin-top: 30px;
+}
+
+.irrigation-table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #ddd0db;
+    padding: 20px;
+    margin-top: 80px;
+    gap: 40px;
+    /* Add this line for spacing */
+}

@@ -93,7 +93,12 @@ const IrrigationTable = () => {
     };
 
     return (
-        <div className="irrigation-table-container">
+        <div className="irrigation-table-container"
+            style={{
+                flexDirection: isScheduleGenerated ? 'row' : 'column',
+                alignItems: isScheduleGenerated ? 'flex-start' : 'center',
+            }}>
+
             <div className="form-container">
                 <h3>Irrigation Schedule Form</h3>
                 <label>Number of Plots: </label>
